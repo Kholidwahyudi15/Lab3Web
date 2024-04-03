@@ -3,7 +3,7 @@
 # Tugas Pemrograman Web 3 Pertemuan Ke-3
 
 <h1>Pengertian PHP</h1>
-<h2>PHP merupakan singkatan dari PHP : Hypertext Preprocessor adalah salah satu Bahasa scripting open source yang banyak digunakan oleh Web Developer untuk pengembangan Web. PHP banyak digunakan untuk membuat banyak project seperti Grafik Antarmuka (GUI), Website Dinamis, dan lain-lain.</h2>
+<p>PHP merupakan singkatan dari PHP : Hypertext Preprocessor adalah salah satu Bahasa scripting open source yang banyak digunakan oleh Web Developer untuk pengembangan Web. PHP banyak digunakan untuk membuat banyak project seperti Grafik Antarmuka (GUI), Website Dinamis, dan lain-lain.</p>
 
 ## Latihan Module 1
 
